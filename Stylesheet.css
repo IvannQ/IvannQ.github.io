@@ -126,3 +126,23 @@ height: auto;
   color: #3498db; 
 }
 
+.transparent-button2 {
+  background-color: transparent;
+  color: #1d3557;
+  border: 2px solid #1d3557;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.transparent-button2:hover {
+  background-color: #1d3557;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+
