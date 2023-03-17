@@ -10,7 +10,7 @@
   background-position: left;
   background-color: #5d4037;
   padding: 3rem 1rem 622px;
-  background-size: cover;
+
 
 }
 a{text-decoration: none;}
@@ -115,7 +115,7 @@ height: auto;
 }
 
 .transparent-btn:hover {
-  background-color: #fff; /* color de fondo al pasar el cursor sobre el botón */
-  color: #3498db; /* color del texto al pasar el cursor sobre el botón */
+  background-color: #fff; 
+  color: #3498db; 
 }
 
