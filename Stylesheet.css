@@ -13,6 +13,13 @@
 
 
 }
+@media only screen and (max-width: 480px) {
+
+  .container-1 {
+    padding: 3rem 1rem 150%;
+  }
+  
+}
 a{text-decoration: none;}
 
 .round-image {
